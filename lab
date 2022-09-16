@@ -9,10 +9,6 @@ lynx gopher://medialab.freaknet.org
 
 userinyerface.com/game.html
 
-unlaud
-tiplicity
-tiversity
-
 the last update here is in 2014 help.ubuntu.com/community/FullDiskEncryptionHowto
 i find many posts and articles and i want to find a document i can contribute to
 
@@ -22,25 +18,13 @@ reddit.com/message/inbox
 availability
 linkedin ≠ professionalità
 
-parole diverse risuonano con te in momenti diversi
-
 norvig.com/21-days.html
 
 medium.com/vptech/a-practical-introduction-to-constraint-programming-2037c91833ba
 
 markwatson.com/books natural language processing
 
-link assumption
-line editing
-# mobile
-
 lascuolaopensource.xyz
-
-lagbot port
-drainbot
-emilio laborbot can buffer
-
-keytles long term idea for multiversum
 
 insights.stackoverflow.com/survey/2019
 
@@ -59,39 +43,9 @@ github.com/IUNetSci/botometer-python
 
 futureofcoding.org/essays/dctp.html
 
-domain specific language
-
-docker rm $(docker ps -aq)
-docker build . -t engine
-docs.docker.com
-
-crontab -e # @reboot tmux irssi
-
-computational media
-linkback
-
-comonads for user interfaces arthur xavier
-the dual of substitution is redecoration
-comonads in everyday life
-
 command-line interface design
 http://www.cs.pomona.edu/classes/cs181f/supp/cli.html
-
-collective digital information processing
-learning: federated, transfered, multitasking
-
-che fare di dike? disinstallare?
-è servito per firmare documenti e ricevute
-potrò installarlo di nuovo quando mi serva
-febbraio 2020
 
 basecamp.com/shapeup book
 
 agoric.com/papers
-
-a web link to mail
-mailto:user@domain.first
-
-<input v-model="counter.rank" type="color">
-marginal maintenance costs
-#rankolor tag color profiles
