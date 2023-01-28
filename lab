@@ -1,67 +1,3 @@
-✨ i open sourced all my google analytics data: anyone can now access and browse all my current and historical traffic. https://twitter.com/levelsio/status/986157545789177856
-
-~/passpack cache.bcup is a passpack cache and also has reserved entries
-key escrow https://www.schneier.com/academic/archives/1997/04/the_risks_of_key_rec.html
-
-uucp.dataforge.tk/manifesto.html
-lynx gopher://republic.circumlunar.space
-lynx gopher://medialab.freaknet.org
-
-userinyerface.com/game.html
-
-the last update here is in 2014 help.ubuntu.com/community/FullDiskEncryptionHowto
-i find many posts and articles and i want to find a document i can contribute to
-
-skymind.ai/wiki/generative-adversarial-network-gan
-
-reddit.com/message/inbox
-availability
-linkedin ≠ professionalità
-
-norvig.com/21-days.html
-
-medium.com/vptech/a-practical-introduction-to-constraint-programming-2037c91833ba
-
-markwatson.com/books natural language processing
-
-lascuolaopensource.xyz
-
-insights.stackoverflow.com/survey/2019
-
-inconvergent.net nice generative artist with open code
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/moveInSuccession
-browser.tabs.moveInSuccession([1, 3, 5, 7, 2, 9])
-browser.tabs.moveInSuccession([6, 1, 2, 3, 4, 5])
-
-http://hackage.haskell.org/package/astro-0.4.2.1/docs/Data-Astro-Moon.html
-moonPhase j2010MoonDetails :: Data.Astro.Time.JulianDate.JulianDate -> Double
-Prelude Data.Astro.Moon Data.Astro.Moon.MoonDetails> :t moonPhase j2010MoonDetails
-
-github.com/IUNetSci/hoaxy-backend
-github.com/IUNetSci/botometer-python
-
-futureofcoding.org/essays/dctp.html
-
-command-line interface design
-http://www.cs.pomona.edu/classes/cs181f/supp/cli.html
-
-basecamp.com/shapeup book
-
-agoric.com/papers
-
-
-toplap.org
-
-
-
-i left r for data science at some exercise in transform
-despite the convenient data transformation functions
-
-
-
-github.com/swanson
-
  websockets, collaborative tools, replicated data types
 pursuit.purescript.org/packages/purescript-ws/0.0.2
 pursuit.purescript.org/packages/purescript-websocket-moderate
@@ -69,21 +5,66 @@ github.com/automerge/automerge
 en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 en.wikipedia.org/wiki/Persistent_data_structure
 
+agoric.com/papers
 
-redhat.com/en/blog/open-brand-project-what-problems-do-we-need-solve
-https://about.gitlab.com/company/culture/all-remote/
-github.com/basecamp/handbook
+akademie.reporterfabrik.de/courses
 
-solidity.readthedocs.io/en/v0.5.7/introduction-to-smart-contracts.html#simple-smart-contract
-blog.hackerrank.com/top-5-takeaways-from-the-women-in-tech-report
+basecamp.com/shapeup book
 
-reddit.com/r/haskell/comments/lrtdo1/what_are_the_currently_active_haskell_podcasts/
+co de v, history, crystals webgl-shaders.com/dla-example.html
+contamination, toxic       webgl-shaders.com/reaction-example.html
+                           webgl-shaders.com/sphere-example.html
+glossy                     webgl-shaders.com/toon-example.html
 
-pvp.haskell.org
-wiki.haskell.org/How_to_write_a_Haskell_program
-wiki.haskell.org/Hierarchical_module_names
-haskell.org/cabal/users-guide
-haskell.org/cabal
+command-line interface design
+http://www.cs.pomona.edu/classes/cs181f/supp/cli.html
+
+drewolson.org inspiring essential personal site
+
+fuff.org
+
+futureofcoding.org/essays/dctp.html
+
+github.com/IUNetSci/hoaxy-backend
+github.com/IUNetSci/botometer-python
+
+github.com/pudo/pudo.org ein neues blahg, ein besseres blahg, oh freunde will ich generieren! http://pudo.org
+seis años después de la última versión, hoy estreno nueva web. https://twitter.com/chocotuits/status/1071838366168166400
+
+github.com/reifyhealth/shadow-cljs-prototype-starter
+github.com/takke/DataStats
+github.com/utkuozbulak/unsupervised-learning-document-clustering
+github.com/brandomr/document_cluster
+github.com/TeehanLax/node-carrot2
+github.com/mimno/Mallet
+
+github.com/swanson
+
+http://hackage.haskell.org/package/astro-0.4.2.1/docs/Data-Astro-Moon.html
+moonPhase j2010MoonDetails :: Data.Astro.Time.JulianDate.JulianDate -> Double
+Prelude Data.Astro.Moon Data.Astro.Moon.MoonDetails> :t moonPhase j2010MoonDetails
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/moveInSuccession
+browser.tabs.moveInSuccession([1, 3, 5, 7, 2, 9])
+browser.tabs.moveInSuccession([6, 1, 2, 3, 4, 5])
+
+https://trisquel.info/en/forum/rust-non-free
+https://wiki.hyperbola.info/doku.php?id=en:main:rusts_freedom_flaws
+
+i left r for data science at some exercise in transform
+despite the convenient data transformation functions
+
+inconvergent.net nice generative artist with open code
+
+insights.stackoverflow.com/survey/2019
+
+lascuolaopensource.xyz
+
+markwatson.com/books natural language processing
+
+medium.com/vptech/a-practical-introduction-to-constraint-programming-2037c91833ba
+
+norvig.com/21-days.html
 
 observablehq.com/collection/@mbostock/applications
 observablehq.com/@mbostock/reading-local-files
@@ -98,31 +79,39 @@ observablehq.com/@mbostock/unemployment-vs-labor-participation-1948-2020
 observablehq.com/@d3/spike-map
 observablehq.com/@attharmirza/the-coronavirus-pandemic-ends-when-this-chart-shrinks-agai
 
-https://trisquel.info/en/forum/rust-non-free
-https://wiki.hyperbola.info/doku.php?id=en:main:rusts_freedom_flaws
+pvp.haskell.org
+wiki.haskell.org/How_to_write_a_Haskell_program
+wiki.haskell.org/Hierarchical_module_names
+haskell.org/cabal/users-guide
+haskell.org/cabal
 
-github.com/reifyhealth/shadow-cljs-prototype-starter
-github.com/takke/DataStats
-github.com/utkuozbulak/unsupervised-learning-document-clustering
-github.com/brandomr/document_cluster
-github.com/TeehanLax/node-carrot2
-github.com/mimno/Mallet
+reddit.com/message/inbox
+availability
+linkedin ≠ professionalità
 
-github.com/pudo/pudo.org ein neues blahg, ein besseres blahg, oh freunde will ich generieren! http://pudo.org
-seis años después de la última versión, hoy estreno nueva web. https://twitter.com/chocotuits/status/1071838366168166400
+reddit.com/r/haskell/comments/lrtdo1/what_are_the_currently_active_haskell_podcasts/
 
-drewolson.org inspiring essential personal site
+redhat.com/en/blog/open-brand-project-what-problems-do-we-need-solve
+https://about.gitlab.com/company/culture/all-remote/
+github.com/basecamp/handbook
 
-co de v, history, crystals webgl-shaders.com/dla-example.html
-contamination, toxic       webgl-shaders.com/reaction-example.html
-                           webgl-shaders.com/sphere-example.html
-glossy                     webgl-shaders.com/toon-example.html
+skymind.ai/wiki/generative-adversarial-network-gan
 
+solidity.readthedocs.io/en/v0.5.7/introduction-to-smart-contracts.html#simple-smart-contract
+blog.hackerrank.com/top-5-takeaways-from-the-women-in-tech-report
 
+the last update here is in 2014 help.ubuntu.com/community/FullDiskEncryptionHowto
+i find many posts and articles and i want to find a document i can contribute to
 
-fuff.org
+toplap.org
 
+userinyerface.com/game.html
 
+uucp.dataforge.tk/manifesto.html
+lynx gopher://republic.circumlunar.space
+lynx gopher://medialab.freaknet.org
 
-akademie.reporterfabrik.de/courses
+~/passpack cache.bcup is a passpack cache and also has reserved entries
+key escrow https://www.schneier.com/academic/archives/1997/04/the_risks_of_key_rec.html
 
+✨ i open sourced all my google analytics data: anyone can now access and browse all my current and historical traffic. https://twitter.com/levelsio/status/986157545789177856
